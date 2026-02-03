@@ -38,7 +38,5 @@ Example output:
 - `edep_h1_Edep.csv`: energy deposition histogram data
 - `edep_histogram.png`: visualization of the energy deposition spectrum
 
----
 
-## Project Structure
 
